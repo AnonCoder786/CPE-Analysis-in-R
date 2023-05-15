@@ -2,9 +2,9 @@
 Analysis on the center for policing equity (CPE) dataset.
 
 [Dataset](37-00049_UOF-P_2016_prepped.csv) <br>
-[Output report in pdf](CPE_Analysis.pdf) <br>
-[Output report in html](CPE_Analysis.html) <br>
-[Output report in docx](CPE_Analysis.docx) <br>
+[Output report in pdf](Report/CPE_Analysis.pdf) <br>
+[Output report in html](Report/CPE_Analysis.html) <br>
+[Output report in docx](Report/CPE_Analysis.docx) <br>
 
 
 ## The Center for Policing Equity (CPE)
@@ -77,9 +77,14 @@ There are four types of data found in data set.
 -   LOCATION_LONGITUDE
 -   STREET_TYPE
 
-## Analysis
+## Analysis (check report for detail)
 
 ![](images/Top_5_Frequency_of_subject_Offences_crimes.jpg)
 ![](images/Number_of_crimes_in_all_Divisions.jpg)
-
+![](images/Type_of_force_used_on_different_races.jpg)
+![](images/Number_of_crimes_offences_per_month_in_each_division.jpg)
+![](images/Number_of_incidents_by_race.jpg)
+![](images/Number_of_offences_crimes_per_hour.jpg)
+![](images/The_number_of_crimes_committed_each_month_across _Hispanic_Black_and_White_subject_races.jpg)
+![](images/The_race_of_individuals_and_the_cause_of_their_arrest.jpg)
 
