@@ -85,6 +85,6 @@ There are four types of data found in data set.
 ![](images/Number_of_crimes_offences_per_month_in_each_division.jpg)
 ![](images/Number_of_incidents_by_race.jpg)
 ![](images/Number_of_offences_crimes_per_hour.jpg)
-![](images/The_number_of_crimes_committed_each_month_across_Hispanic_Black_and_White_subject_races.jpg)
+![](images/The_number_of_crimes_committed_each_month_across _Hispanic_Black_and_White_subject_races.jpg)
 ![](images/The_race_of_individuals_and_the_cause_of_their_arrest.jpg)
 
